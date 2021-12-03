@@ -1,7 +1,8 @@
 <?php
 namespace Tbbc\MoneyBundle\Pair;
 
-use Symfony\Component\EventDispatcher\Event;
+
+use Symfony\Contracts\EventDispatcher\Event;
 
 /**
  * Class SaveRatioEvent
